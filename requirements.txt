@@ -2,3 +2,5 @@ numpy
 matplotlib
 ipywidgets
 nbinteract
+scipy
+mpl_toolkits
